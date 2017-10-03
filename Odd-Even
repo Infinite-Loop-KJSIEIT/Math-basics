@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a[5],i;
+    for(i=0;i<=4;i++)
+    {
+        cin>>a[i];
+    }
+    cout<<"The even numbers are: ";
+    for(i=0;i<=4;i++)
+    {
+    if(a[i]%2==0)
+    {
+        cout<<a[i]<<" ";
+    }
+    }
+    cout<<"\nThe odd numbers are: ";
+    for(i=0;i<=4;i++)
+    {
+        if(a[i]%2!=0)
+    {
+       cout<<a[i]<<" ";         
+    }
+}
+}
