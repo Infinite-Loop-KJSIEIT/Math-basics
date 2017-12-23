@@ -1,0 +1,13 @@
+This programme returns the square root of the (positive) number entered by the user.
+
+In this programme, we implement the Babylonian algorithm (also known as Hero's method) to approximately calculate the square root.
+
+The idea involved is that if X is an underestimate to the square root of S, then S/X must be an overestimate, and vice-versa.
+Therefore, the average of X and S/X is a better estimate of the sqaure root of S than X.
+Thus, with every iteration, the value of X converges with the actual square root.
+
+For this programme, we have set the tolerance to 0.0000000001%.
+
+The input to the programme starts with the number of test cases (T).
+This is followed by each of the T test cases, which must all be positive numbers.
+The programme prints the square root of each test case.
