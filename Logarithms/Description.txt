@@ -1,0 +1,6 @@
+This programme performs basic operations using logarithms.
+
+In this programme, we implement infinite series approximations to obtain logarithms and exponents.
+We also calculate the value of e (base of the natural logarithm, a.k.a. Euler's constant) at the beginning of every programme in a similar manner.
+
+For this programme, the accuracy of the results is higher for smaller numbers and it reduces with increasing values.
