@@ -1,0 +1,7 @@
+This programme implements a simple DFA (Deterministic Finite Automaton) to validate the user input.
+
+In this programme, we implement the state transitions of the automaton using a pre-defined matrix (multi-dimensional array) that describes each transition.
+The input is fed to the automaton using a for loop.
+At the end of the input, the DFA evaluates its final state as acceptable or unacceptable.
+
+For this programme, all strings ending in 'ab' are acceptable.
