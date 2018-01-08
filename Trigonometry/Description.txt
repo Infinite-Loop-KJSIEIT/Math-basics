@@ -1,0 +1,6 @@
+This programme calculates the values of the fundamental trigonometric ratios – sine and cosine, and uses them to derive the value of the tangent.
+
+In this programme, we implement infinite series approximations to calculate the fundamental rations as the sum of infinite series.
+We also calculate the value of π (mathematical constant defined as circumference/diameter for any circle) at the beginning of every execution, in a similar manner.
+
+For this programme, the precision has been set for 3 decimal places.
